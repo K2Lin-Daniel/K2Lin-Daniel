@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=K2Lin%20Dayo~&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20digital%20laboratory!&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=200&section=header&text=K2Lin%20Dayo~&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20digital%20laboratory!&descAlignY=55&descAlign=50&font=Comfortaa" />
 </div>
 
 <div align="center">
@@ -42,10 +42,10 @@ I am currently focusing on **Modern Web Architecture** and **High-Security Crypt
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=K2Lin-Daniel&show_icons=true&theme=radical&count_private=true" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=K2Lin-Daniel&show_icons=true&count_private=true&bg_color=fff5f7&title_color=d16ba5&text_color=5c5c5c&icon_color=ffb6c1&border_color=ffb6c1&hide_border=false" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K2Lin-Daniel&layout=compact&theme=radical&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K2Lin-Daniel&layout=compact&card_width=320&bg_color=fff5f7&title_color=d16ba5&text_color=5c5c5c&icon_color=ffb6c1&border_color=ffb6c1&hide_border=false" />
 </a>
 </div>
 
